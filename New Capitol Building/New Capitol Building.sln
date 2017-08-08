@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Capitol Building.CSharp", "New Capitol Building.CSharp.csproj", "{726C95F7-BBC5-9621-B813-CB3E6FF6E860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Capitol Building.CSharp.Editor", "New Capitol Building.CSharp.Editor.csproj", "{309C7BB5-28C1-E0B0-C9C3-9885D02958B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{726C95F7-BBC5-9621-B813-CB3E6FF6E860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726C95F7-BBC5-9621-B813-CB3E6FF6E860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726C95F7-BBC5-9621-B813-CB3E6FF6E860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726C95F7-BBC5-9621-B813-CB3E6FF6E860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309C7BB5-28C1-E0B0-C9C3-9885D02958B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309C7BB5-28C1-E0B0-C9C3-9885D02958B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309C7BB5-28C1-E0B0-C9C3-9885D02958B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309C7BB5-28C1-E0B0-C9C3-9885D02958B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
