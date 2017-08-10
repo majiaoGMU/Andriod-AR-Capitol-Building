@@ -1,5 +1,5 @@
 # Visualizing the United States Capitol Building in AR pattern
-This project applies Augmented Reality techniques to exhibit the history of U.S. Capitol Building in an Android application.
+This project applies Augmented Reality techniques to exhibit the history of U.S. Capitol Building in an Android application. Please using the target-image in the folder as your phone camera target to display the virtual Capitol Building. 
 ## Tools 
 * Unity 5.5.0
 * Vuforia
